@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.0.0"
 # Minima is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
-gem 'topology', '~> 0.0.1'
+gem 'theme-juice', '~> 0.28.8'
 # To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
