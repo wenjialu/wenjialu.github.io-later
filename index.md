@@ -13,7 +13,7 @@ As for coding, I learn them via Projects. you can view some of my tutorials from
 
 ### My working experience
 
-              If you are an employer. You would definitly be interested in this: [My Resume](https://wenjialu.github.io/cv/index.html). Thank your viewing and I'd appreciate it very much if you are willing to give me any advise or give me a **job opportunity**.
+If you are an employer. You would definitly be interested in this: [My Resume](https://wenjialu.github.io/cv/index.html). Thank your viewing and I'd appreciate it very much if you are willing to give me any advise or give me a **job opportunity**.
             
 
    
