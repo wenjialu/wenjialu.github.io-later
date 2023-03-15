@@ -1,7 +1,31 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
+# Welcome to Wenjia lu's universe
+  
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+
+## I am a little geek👩‍💻👩‍🔬, being fascinated by New Tech!
+Programming and Psychology have occupied an important place in my life. 
+As for coding, I learn them via Projects. you can view some of my tutorials from: [My technology blog](https://wenjialu.github.io/hexo-blog/)
+
+
+
+### My working experience
+
+              If you are an employer. You would definitly be interested in this: [My Resume](https://wenjialu.github.io/cv/index.html). Thank your viewing and I'd appreciate it very much if you are willing to give me any advise or give me a **job opportunity**.
+            
+
+   
+    
+### Psychology 
+I also consider being a neuroscientist👩‍🔬 and I may spend the rest of my life to pursue it!
+       
+Resourses: Always learn from the [best](https://wenjialu.github.io/reading_process_omni.html/index.html)
+        
+
+### My personal life
+         
+   I like learning new language.
+   French：having a causal chat with some French when I am in France～
+    ps.I meet with some people who have a passion towards French ( An American, a British, a Swede, a German ) weekly, and we just speak French(no matter how awkards it sounds).
