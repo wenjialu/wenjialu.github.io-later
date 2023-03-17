@@ -22,8 +22,8 @@ google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 #theme: minima
-#remote_theme: jekyll-theme-elementary-blog
-remote_theme: theme-juice
+remote_theme: jekyll-theme-elementary-blog
+#remote_theme: theme-juice
 # original theme: minima
 # plugins:
 #   - jekyll-feed
