@@ -12,6 +12,7 @@ source "https://rubygems.org"
 #gem "minima", "~> 2.5"
 # gem 'theme-juice', '~> 0.28.8'
 gem 'jekyll-theme-elementary-blog', '~> 1.0', '>= 1.0.1'
+gem install jekyll-theme-elementary-blog
 # To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
