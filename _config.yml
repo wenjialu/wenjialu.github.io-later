@@ -30,6 +30,7 @@ google_analytics:
 #remote_theme: Mita Yun@theme-sealicon-valley
 #remote_theme: samarsault/texture
 remote_theme: wenjialu/minimal-mistakes
+
 # plugins:
 #   - jekyll-feed
 #   - jekyll-gist
