@@ -31,11 +31,12 @@ google_analytics:
 #remote_theme: samarsault/texture
 remote_theme: wenjialu/minimal-mistakes
 
-# plugins:
-#   - jekyll-feed
-#   - jekyll-gist
-#   - jekyll-octicons
-#   - jekyll-github-metadata
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-github-metadata
 
 # titles_from_headings:
 #   enabled:     true
