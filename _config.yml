@@ -25,7 +25,8 @@ google_analytics:
 # original theme: minima
 #theme: minima
 #remote_theme: elementary/jekyll-theme-elementary-blog
-remote_theme: elementary/blog-template
+#remote_theme: elementary/blog-template
+remote_theme: mywebsite-ins-template
 #remote_theme: Mita Yun@theme-sealicon-valley
 #remote_theme: samarsault/texture
 # plugins:
