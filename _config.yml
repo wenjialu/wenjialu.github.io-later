@@ -29,7 +29,7 @@ google_analytics:
 #remote_theme: wenjialu/mywebsite-ins-template
 #remote_theme: Mita Yun@theme-sealicon-valley
 #remote_theme: samarsault/texture
-remote_theme: minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # plugins:
 #   - jekyll-feed
 #   - jekyll-gist
