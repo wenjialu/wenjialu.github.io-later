@@ -29,11 +29,9 @@ google_analytics:
 #theme: minima
 #remote_theme: elementary/jekyll-theme-elementary-blog
 #remote_theme: elementary/blog-template
-#remote_theme: wenjialu/mywebsite-ins-template
 #remote_theme: Mita Yun@theme-sealicon-valley
-#remote_theme: samarsault/texture
-#remote_theme: wenjialu/minimal-mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: wenjialu/mywebsite-ins-template
 
 plugins:
   - jekyll-include-cache
