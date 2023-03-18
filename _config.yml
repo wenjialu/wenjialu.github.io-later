@@ -21,10 +21,11 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-#theme: minima
-remote_theme: elementary@elementary-blog
-#remote_theme: Mita Yun@theme-sealicon-valley
 # original theme: minima
+#theme: minima
+#remote_theme: elementary@elementary-blog
+#remote_theme: Mita Yun@theme-sealicon-valley
+remote_theme: samarsault/texture
 # plugins:
 #   - jekyll-feed
 #   - jekyll-gist
